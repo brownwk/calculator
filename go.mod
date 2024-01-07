@@ -1,3 +1,3 @@
-module github.com/brownw5/calculator
+module github.com/brownwk/calculator
 
 go 1.21.4
